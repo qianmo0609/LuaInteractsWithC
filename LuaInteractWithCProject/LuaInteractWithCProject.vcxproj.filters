@@ -116,89 +116,89 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\lopcodes.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lopnames.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
     <ClInclude Include="include\lparser.h">
       <Filter>源文件</Filter>
     </ClInclude>
     <ClInclude Include="include\lprefix.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="include\lstate.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lstring.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\ltable.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\ltm.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lua.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lua.hpp">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\luaconf.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lualib.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lundump.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lvm.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lzio.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lapi.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lauxlib.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lcode.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\lctype.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
     <ClInclude Include="include\ldebug.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="include\lapi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lauxlib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lcode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lctype.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
     <ClInclude Include="include\ldo.h">
-      <Filter>源文件</Filter>
+      <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="include\lfunc.h">
-      <Filter>源文件</Filter>
+      <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="include\lgc.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\ljumptab.h">
-      <Filter>源文件</Filter>
+      <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="include\llex.h">
-      <Filter>源文件</Filter>
+      <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="include\llimits.h">
-      <Filter>源文件</Filter>
+    <ClInclude Include="include\ljumptab.h">
+      <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="include\lmem.h">
-      <Filter>源文件</Filter>
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\llimits.h">
+      <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="include\lobject.h">
-      <Filter>源文件</Filter>
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lopcodes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lopnames.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lstate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lstring.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ltable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ltm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lua.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\luaconf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lualib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lundump.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lvm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lzio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lua.hpp">
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
