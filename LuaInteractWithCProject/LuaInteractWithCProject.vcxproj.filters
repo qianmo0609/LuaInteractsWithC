@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lopcodes.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\loslib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lparser.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lstate.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lstring.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lstrlib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\ltable.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\ltablib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\ltm.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lundump.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lutf8lib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lvm.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lzio.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lapi.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lauxlib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lbaselib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lcode.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lcorolib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lctype.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\ldblib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\ldebug.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\ldo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\ldump.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lfunc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lgc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\linit.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\liolib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\llex.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lmathlib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lmem.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\loadlib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="include\lobject.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\lopcodes.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lopnames.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lparser.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lprefix.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lstate.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lstring.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ltable.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ltm.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lua.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lua.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\luaconf.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lualib.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lundump.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lvm.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lzio.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lapi.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lauxlib.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lcode.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lctype.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ldebug.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ldo.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lfunc.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lgc.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ljumptab.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\llex.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\llimits.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lmem.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\lobject.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
